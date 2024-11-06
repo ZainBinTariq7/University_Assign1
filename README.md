@@ -29,11 +29,11 @@ Copy code
 pip install pandas matplotlib seaborn numpy
 Usage
 Clone the repository.
-Open and run the Jupyter Notebook file Zain_Assign_3_(1).ipynb in an environment that supports Jupyter notebooks.
+Open and run the Jupyter Notebook file Assign_1.ipynb in an environment that supports Jupyter notebooks.
 The notebook performs data loading, data cleaning, statistical analysis, and visualization.
 The results are displayed in the form of visualizations and printed statistics.
 Structure
-Zain_Assign_3_(1).ipynb: Main notebook file containing the code for data analysis and visualization.
+Assign_1.ipynb: Main notebook file containing the code for data analysis and visualization.
 README.md: Description of the project, objectives, and usage instructions.
 Report.pdf: Final report containing plots, explanations, and analysis.
 Results and Insights
